@@ -14,6 +14,13 @@ body{
     position: relative;
     left: -8%;
 }
+@media screen and (max-width: 500px){
+    #logo
+    {
+        margin: 3%;
+        font-size: x-large;
+    }
+}
 #first
 {
     margin-top: 2%;
@@ -21,10 +28,6 @@ body{
     display: flex;
     position: relative;
     justify-content: space-around;
-}
-#navigation{
-    /* background:linear-gradient(-45deg, rgba(0, 0, 0, 0.952), rgba(255, 0, 0, 0.438));
-    padding: 12px; */
 }
 #nav{
     display: flex;
@@ -46,6 +49,40 @@ body{
 #li
 {
     margin: 2%;
+}
+#humberger
+{
+    margin: 3%;
+    height: 35px;
+    width: 40px;
+    padding: 12px;
+    background: rgba(255, 0, 0, 0.438);
+    position: relative;
+    right: -7%;
+    border: none;
+    /* outline: none; */
+    cursor: pointer;
+}
+#bar{
+    height: 1px;
+    width: 50px;
+    padding: 2px;
+    background: lightgrey;
+    transform: rotate(90deg);
+}
+#bar::before
+{
+    content: "";
+    position: absolute;
+    padding: 5px;
+    height: 10px;
+    background: rgb(0, 0, 0);
+}
+@media screen and (max-width: 500px){
+    #navigation
+    {
+        display: none;
+    }
 }
 #buket{
     display: flex;
