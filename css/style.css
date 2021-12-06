@@ -163,7 +163,7 @@ body{
     background: rgba(0, 0, 0, 0.534);
 } */
 #habout{
-    text-align: center;
+    text-align: left;
     text-decoration: underline;
     margin-bottom: 12px;
 }
@@ -197,7 +197,7 @@ body{
 #hproject
 {
     color: rgb(197, 197, 197);
-    text-align: center;
+    text-align: left;
     text-decoration: underline;
     margin-bottom: 12px;
 }
