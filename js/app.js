@@ -54,3 +54,11 @@ window.onload = function() {
     css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
     document.body.appendChild(css);
 };
+const tl = gsap.timeline({defaults: {ease: 'power1.out'}})
+
+    tl.to(".text", { y: "0%", duration: 1, stagger: 0.25});
+    tl.to(".slider", { y: "-100%", duration: 1.5, delay: 0.5});
+    tl.to(".intro", { y: "-100%", duration: 1}, "-=1");
+    tl.fromTo("#first", {opacity: 0}, {opacity: 1, duration: 1});
+    tl.fromTo("#buket", {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
+    tl.fromTo("#exp", {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
