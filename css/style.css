@@ -46,7 +46,6 @@ body{
     display: block;
     height: 3px;
     width: 0%;
-    background-color: #61DAFB;
     position: absolute;
     transition: all ease-in-out 250ms;
     /* margin: 0 0 0 10%; */
@@ -116,7 +115,7 @@ body{
         position: fixed;
         left: 0%;
         z-index: 1;
-        background: #0a0808c2;
+        background: #131418a9;
         height: 40%;
         width: 100%;
         flex-direction: column;
