@@ -237,12 +237,15 @@ body{
     color: white;
     text-decoration: none;
 }
+#exp{
+    height: 50px;
+}
 #expression{
     font-size: 20px;
     text-align: left;
     color: rgb(197, 197, 197);
     position: relative;
-    margin-top: 8%;
+    margin-top: 5%;
     left: 30%;
     width: 250px;
     /* background: rgba(0, 0, 0, 0.952); */
@@ -251,7 +254,7 @@ body{
     overflow: hidden;
 }
 .about{
-    margin-top: 15%;
+    margin-top: 0%;
     margin-right: 5%;
     margin-left: 5%;
     margin-bottom: 5%;
