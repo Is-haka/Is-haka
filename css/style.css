@@ -16,6 +16,8 @@ body{
     left: 3%;
     margin: 0.5%;
     width: 120px;
+    text-decoration: none;
+    color: #f2f5f7;
 }
 #first{
     height: 3rem;
