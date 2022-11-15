@@ -15,6 +15,7 @@ body{
     position: relative;
     left: 3%;
     margin: 0.5%;
+    width: 120px;
 }
 #first{
     height: 3rem;
@@ -96,6 +97,26 @@ body{
     transform: translateY(100%);
     display: inline-block;
 }
+@media screen and (max-width: 1300px){
+    .project1, .project2, .project3{
+        width: 50px;
+        overflow: hidden;
+        margin: 3%;
+    }
+}
+@media screen and (max-width: 1100px){
+    .gproject{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .project1, .project2, .project3{
+        width: 900px;
+        overflow: hidden;
+        margin: 3%;
+    }
+}
 @media screen and (max-width: 800px){
     #first{
         position: fixed;
@@ -175,7 +196,7 @@ body{
 @media screen and (max-width: 500px){
     #logo
     {
-        margin: 3%;
+        margin: 1%;
         font-size: x-large;
     }
     .intro-text{
@@ -217,7 +238,7 @@ body{
     width: 250px;
     height: 250px;
     position: relative;
-    margin-top: 5%;
+    margin-top: 8%;
     margin-left: 2.5%;
     z-index: 1;
 }
@@ -297,9 +318,12 @@ body{
     width: 100px;
     height: 50px;
     z-index: -1;
-    right: -60%;
+    /* right: -60%; */
     /* top: 87.2%; */
-    background: rgba(0, 0, 0, 0.534);
+    background: linear-gradient(transparent, rgb(53, 13, 13));
+}
+#description{
+    font-size: 18px;
 }
 .projects{
     margin-top: 15%;
@@ -314,4 +338,86 @@ body{
     text-align: left;
     text-decoration: underline;
     margin-bottom: 12px;
+}
+.gproject{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+.project1{
+    width: 350px;
+    height: 100%;
+    background: #131418a9;
+    padding-bottom: 20px;
+    position: relative;
+    box-shadow: 1px 0px 3px #131418c4;
+}
+.project1::after
+{
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 500px;
+    padding: 50px;
+    background: linear-gradient(transparent, rgb(53, 13, 13));
+    z-index: -1;
+    top: -1%;
+}
+.pimg1{
+    background: url(../img/project1.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 90px 0px 150px;
+}
+.headp1{
+    text-align: center;
+    color: #f2f5f7;
+    padding: 12px;
+}
+.descriptionp1{
+    padding: 12px;
+    color: #f2f5f7;
+}
+.project2{
+    width: 350px;
+    height: 100%;
+    background: #131418a9;
+    position: relative;
+    padding-bottom: 20px;
+    box-shadow: 1px 0px 3px #131418c4;
+}
+.project2::after
+{
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 500px;
+    padding: 50px;
+    background: linear-gradient(transparent, rgb(53, 13, 13));
+    z-index: -1;
+    top: -1%;
+}
+.project3{
+    width: 350px;
+    height: 100%;
+    background: #131418a9;
+    position: relative;
+    padding-bottom: 20px;
+    box-shadow: 1px 0px 3px #131418c4;
+}
+.project3::after
+{
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 500px;
+    padding: 50px;
+    background: linear-gradient(transparent, rgb(53, 13, 13));
+    z-index: -1;
+    top: -4%;
 }
