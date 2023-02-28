@@ -5,11 +5,49 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    cursor: none;
+}
+::selection{
+    background-color: lightgrey;
+    color: rgb(56, 56, 56);
 }
 body{
     background: rgba(0, 0, 0, 0.952);
     overflow-x: hidden;
 }
+.custom-cursor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 10000;
+  }
+  
+  .cursor-circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.541);
+    border-radius: 50%;
+    background-color: rgba(51, 51, 51, 0.37);
+    z-index: 10000;
+    transform: translate(-50%, -50%);
+  }
+  
+  .cursor-dot {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #fff;
+    z-index: 10000;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.1s ease-out;
+  }
 #logo
 {
     position: relative;
@@ -51,7 +89,6 @@ body{
     width: 0%;
     position: absolute;
     transition: all ease-in-out 250ms;
-    /* margin: 0 0 0 10%; */
 }
 .hamburger div{
     width: 30px;
@@ -333,6 +370,7 @@ body{
     margin-left: 5%;
     margin-bottom: 5%;
     overflow: hidden;
+    z-index: -9999;
 }
 #hproject
 {

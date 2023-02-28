@@ -76,3 +76,20 @@
         tl.fromTo("#exp", {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
         tl.fromTo(".about", {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
         tl.fromTo(".projects", {opacity: 0}, {opacity: 1, duration: 1}, "-=1");
+
+        const cursorCircle = document.querySelector('.cursor-circle');
+        const cursorDot = document.querySelector('.cursor-dot');
+        
+        window.addEventListener('mousemove', (e) => {
+            const x = e.pageX;
+            const y = e.pageY;
+            
+              cursorCircle.style.transform = 'translate(' + x + 'px, ' + y + 'px)';
+              cursorDot.style.transform = 'translate(' + x + 'px, ' + y + 'px) scale(1)';
+          
+          });
+          
+          document.addEventListener('mouseleave', () => {
+            cursorCircle.style.transform = 'translate(-9999px, -9999px)';
+            cursorDot.style.transform = 'translate(-9999px, -9999px) scale(0)';
+          });
