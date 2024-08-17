@@ -1,16 +1,42 @@
-### Hi there 👋
+# 👋 Hi there, I'm is-haka
 
-<!--
-**Is-haka/Is-haka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Mobile App Enthusiast | Open Source Contributor**
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with a keen interest in emerging technologies. My dedication to programming, database administration, and DevOps engineering drives me to excel and become a competitive professional in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🚀 Skills
+
+| Skill   | Proficiency                                                  |
+|---------|--------------------------------------------------------------|
+| PHP     | ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀ 89% |
+| Laravel | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 78% |
+| Node.js | ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀ 65% |
+| Python  | ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀ 45% |
+| Angular | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 80% |
+| Flutter | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 75% |
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/is-haka/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/is-haka)
+
+## 📈 GitHub Stats
+
+![is-haka's GitHub stats](https://github-readme-stats.vercel.app/api?username=is-haka&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-haka&layout=compact&theme=radical)
+
+---
+
+⭐️ From [is-haka](https://github.com/is-haka)
