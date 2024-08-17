@@ -9,6 +9,7 @@ I'm a passionate full-stack developer with a keen interest in emerging technolog
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,10 +20,11 @@ I'm a passionate full-stack developer with a keen interest in emerging technolog
 |---------|--------------------------------------------------------------|
 | PHP     | ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀ 89% |
 | Laravel | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 78% |
-| Node.js | ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀ 65% |
-| Python  | ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀ 45% |
 | Angular | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 80% |
+| TypeScript | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 60% |
+| Node.js | ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀ 65% |
 | Flutter | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 75% |
+| Python  | ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀ 45% |
 
 ## 🌐 Connect with Me
 
