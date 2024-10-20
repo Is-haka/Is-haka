@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm is-haka
 
-**Full-Stack Developer | Mobile App Enthusiast | Open Source Contributor**
+**Full-Stack Developer | Artificial Intelligence Enthusiast | Open Source Contributor**
 
 I'm a passionate full-stack developer with a keen interest in emerging technologies. My dedication to programming, database administration, and DevOps engineering drives me to excel and become a competitive professional in the tech industry.
 
