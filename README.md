@@ -53,7 +53,8 @@ I'm a passionate full-stack developer with a keen interest in emerging technolog
 |-------|-------------|
 | PHP | ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀ 89% |
 | Laravel | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 78% |
-| Angular | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 80% |
+| React | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 75% |
+| Angular | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 70% |
 | TypeScript | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 80% |
 | Node.js | ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀ 65% |
 | Flutter | ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 75% |
