@@ -10,7 +10,7 @@ I'm a passionate full-stack developer with a keen interest in emerging technolog
 - 🌱 Learning more about AI/ML integration with mobile and web applications
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about PHP, Laravel, React, Angular, or Flutter development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/is-haka/)
+- 📫 How to reach me: [WhatsApp](https://wa.me/message/AHJ7AQDAAISNN1)
 
 ## 💻 Tech Stack
 
